@@ -1,0 +1,265 @@
+﻿category,year,value
+food,1989,323845
+alcohol,1989,22961
+housing,1989,708468
+apparel & services,1989,126476
+transportation,1989,437072
+healthcare,1989,116450
+entertainment,1989,117948
+personal care,1989,29600
+food,1990,338348
+alcohol,1990,23902
+housing,1990,736750
+apparel & services,1990,131384
+transportation,1990,432932
+healthcare,1990,124263
+entertainment,1990,120054
+personal care,1990,29505
+food,1991,344594
+alcohol,1991,24776
+housing,1991,777886
+apparel & services,1991,144234
+transportation,1991,439123
+healthcare,1991,130770
+entertainment,1991,127147
+personal care,1991,33384
+food,1992,345262
+alcohol,1992,25420
+housing,1992,816000
+apparel & services,1992,140123
+transportation,1992,451154
+healthcare,1992,141991
+entertainment,1992,130531
+personal care,1992,32785
+food,1993,353924
+alcohol,1993,22870
+housing,1993,821993
+apparel & services,1993,137210
+transportation,1993,470489
+healthcare,1993,150802
+entertainment,1993,135337
+personal care,1993,32351
+food,1994,361440
+alcohol,1994,23695
+housing,1994,869486
+apparel & services,1994,137208
+transportation,1994,521345
+healthcare,1994,151291
+entertainment,1994,138188
+personal care,1994,33486
+food,1995,365324
+alcohol,1995,23534
+housing,1995,875337
+apparel & services,1995,140025
+transportation,1995,509991
+healthcare,1995,145108
+entertainment,1995,139503
+personal care,1995,33827
+food,1996,395221
+alcohol,1996,26824
+housing,1996,898215
+apparel & services,1996,150927
+transportation,1996,545392
+healthcare,1996,150975
+entertainment,1996,159187
+personal care,1996,44025
+food,1997,400440
+alcohol,1997,26997
+housing,1997,960903
+apparel & services,1997,146228
+transportation,1997,566507
+healthcare,1997,160746
+entertainment,1997,157179
+personal care,1997,45924
+food,1998,393927
+alcohol,1998,26427
+housing,1998,988847
+apparel & services,1998,139153
+transportation,1998,570241
+healthcare,1998,165027
+entertainment,1998,149882
+personal care,1998,34112
+food,1999,401978
+alcohol,1999,26819
+housing,1999,1000395
+apparel & services,1999,145774
+transportation,1999,589525
+healthcare,1999,165999
+entertainment,1999,159834
+personal care,1999,34250
+food,2000,415363
+alcohol,2000,32327
+housing,2000,1014172
+apparel & services,2000,155256
+transportation,2000,616023
+healthcare,2000,171851
+entertainment,2000,157931
+personal care,2000,46926
+food,2001,444775
+alcohol,2001,30410
+housing,2001,1151797
+apparel & services,2001,149133
+transportation,2001,701426
+healthcare,2001,195574
+entertainment,2001,177014
+personal care,2001,42436
+food,2002,452223
+alcohol,2002,33436
+housing,2002,1230077
+apparel & services,2002,155353
+transportation,2002,736316
+healthcare,2002,220649
+entertainment,2002,195990
+personal care,2002,47901
+food,2003,474544
+alcohol,2003,37544
+housing,2003,1314092
+apparel & services,2003,152676
+transportation,2003,781789
+healthcare,2003,240660
+entertainment,2003,205426
+personal care,2003,50385
+food,2004,670766
+alcohol,2004,53292
+housing,2004,1618136
+apparel & services,2004,210799
+transportation,2004,907129
+healthcare,2004,299289
+entertainment,2004,257887
+personal care,2004,67485
+food,2005,695361
+alcohol,2005,49981
+housing,2005,1779780
+apparel & services,2005,221139
+transportation,2005,979231
+healthcare,2005,312649
+entertainment,2005,280188
+personal care,2005,63451
+food,2006,725145
+alcohol,2006,58981
+housing,2006,1944683
+apparel & services,2006,222418
+transportation,2006,1011085
+healthcare,2006,328727
+entertainment,2006,282250
+personal care,2006,69433
+food,2007,736786
+alcohol,2007,54849
+housing,2007,2033228
+apparel & services,2007,225938
+transportation,2007,1052362
+healthcare,2007,342814
+entertainment,2007,324185
+personal care,2007,70608
+food,2008,776825
+alcohol,2008,53558
+housing,2008,2065912
+apparel & services,2008,217176
+transportation,2008,1038811
+healthcare,2008,359365
+entertainment,2008,342185
+personal care,2008,74300
+food,2009,770118
+alcohol,2009,52542
+housing,2009,2041738
+apparel & services,2009,208496
+transportation,2009,925492
+healthcare,2009,377780
+entertainment,2009,325412
+personal care,2009,71978
+food,2010,741020
+alcohol,2010,49814
+housing,2010,2004933
+apparel & services,2010,205572
+transportation,2010,929544
+healthcare,2010,382285
+entertainment,2010,303164
+personal care,2010,70426
+food,2011,787257
+alcohol,2011,55649
+housing,2011,2054287
+apparel & services,2011,212172
+transportation,2011,1013652
+healthcare,2011,405048
+entertainment,2011,314210
+personal care,2011,77421
+food,2012,819604
+alcohol,2012,56038
+housing,2012,2100777
+apparel & services,2012,215644
+transportation,2012,1119253
+healthcare,2012,442435
+entertainment,2012,323950
+personal care,2012,78083
+food,2013,829220
+alcohol,2013,55838
+housing,2013,2154893
+apparel & services,2013,201485
+transportation,2013,1131403
+healthcare,2013,456305
+entertainment,2013,311898
+personal care,2013,76418
+food,2014,856684
+alcohol,2014,58640
+housing,2014,2260034
+apparel & services,2014,226385
+transportation,2014,1152035
+healthcare,2014,544809
+entertainment,2014,346200
+personal care,2014,81837
+food,2015,900446
+alcohol,2015,66053
+housing,2015,2364054
+apparel & services,2015,236770
+transportation,2015,1220227
+healthcare,2015,557632
+entertainment,2015,364844
+personal care,2015,87580
+food,2016,932575
+alcohol,2016,62654
+housing,2016,2446505
+apparel & services,2016,233410
+transportation,2016,1172223
+healthcare,2016,597428
+entertainment,2016,377271
+personal care,2016,91521
+food,2017,1003471
+alcohol,2017,72466
+housing,2017,2584719
+apparel & services,2017,237997
+transportation,2017,1244638
+healthcare,2017,640626
+entertainment,2017,416176
+personal care,2017,99005
+food,2018,1039471
+alcohol,2018,76468
+housing,2018,2640250
+apparel & services,2018,244915
+transportation,2018,1282692
+healthcare,2018,652982
+entertainment,2018,423720
+personal care,2018,100865
+food,2019,1078750
+alcohol,2019,76493
+housing,2019,2734285
+apparel & services,2019,248692
+transportation,2019,1420566
+healthcare,2019,686691
+entertainment,2019,408392
+personal care,2019,103912
+food,2020,961333
+alcohol,2020,62801
+housing,2020,2809933
+apparel & services,2020,188417
+transportation,2020,1289479
+healthcare,2020,679445
+entertainment,2020,382340
+personal care,2020,84885
+food,2021,1105178
+alcohol,2021,73841
+housing,2021,3021905
+apparel & services,2021,233952
+transportation,2021,1464325
+healthcare,2021,728228
+entertainment,2021,476379
+personal care,2021,102831
