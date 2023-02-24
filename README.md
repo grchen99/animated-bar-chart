@@ -1,1 +1,1 @@
-# visualizations
+# animated-bar-chart
